@@ -1,0 +1,69 @@
+@font-face
+{
+    font-family:Segoe UI;
+    src: url(C:\Windows\Fonts\segoeui);
+}
+
+p
+{
+font-family:Segoe UI;    
+font-size:15px;    
+color:gray;
+}
+
+h1
+{
+    text-align: center;
+    font-family:Segoe UI;    
+    font-size:25px;    
+    color:black;
+}
+
+div {
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    float: right;
+}
+
+li {
+    float: left;
+    width: 175px;
+}
+
+li a {
+
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:Segoe UI;
+    font-size: 25px;
+}
+
+.text {
+    margin: 50px;
+    width: 40%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.style iframe
+{
+width:100%;
+frameborder:0;   
+}
+
